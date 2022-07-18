@@ -1,0 +1,54 @@
+.color-verde {
+    background-color: #28A745;
+}
+
+.card-tittle {
+    font-family: lite;
+
+}
+
+.color-precio {
+    color: #28A745;
+    font-size: 20pt;
+}
+
+.tamano-precio {
+    font-size: 16pt;
+}
+
+.color-letra {
+    color: #FFFFFF;
+
+}
+
+.color-letra2 {
+    color: #707070;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    width: 82pt;
+    height: 24pt;
+}
+
+.logo-blanco {
+    background-image: url(../img/logo-white.png);
+    width: 85pt;
+    height: 25pt;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.margen {
+    margin: 4pt 4pt 4pt 4pt;
+}
+
+.centrar {
+    text-align: center;
+    height: 50px;
+
+}
